@@ -1,1 +1,1 @@
-# AlanHesaplama
+# ÜçgenAlanıHesaplama
